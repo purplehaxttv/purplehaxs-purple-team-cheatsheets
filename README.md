@@ -11,6 +11,13 @@ Grown out of live Twitch prep work, not written cold — see the AWS section for
 - [`aws/`](./aws) — AWS cloud security: IAM, S3, more to come.
 - More cloud/security domains added here as they're built.
 
+## Courses
+
+Lesson-by-lesson companion notes for two Anthropic Claude Academy courses — kept here because the AWS cheat sheet above started life as the running project for one of them.
+
+- [`courses/ai-fluency-framework-and-foundations/`](./courses/ai-fluency-framework-and-foundations) — the 4D framework (Delegation, Description, Discernment, Diligence) for collaborating with AI effectively, efficiently, ethically, and safely.
+- [`courses/ai-capabilities-and-limitations/`](./courses/ai-capabilities-and-limitations) — the companion course covering what a model is actually doing under the hood (next-token prediction, knowledge, working memory, steerability) and why that shapes how well the 4Ds work in practice.
+
 ## A note on severity ratings
 
 Where a cheat sheet entry includes a severity rating, it's meant to be a collaborative call (CVSS score + reasoning, discussed before finalizing), not something generated unilaterally. If you see an entry marked "pending," that's why — it hasn't gone through that step yet.
